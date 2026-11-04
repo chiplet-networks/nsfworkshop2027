@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 130" role="img" aria-label="ChipletNet 2027">
+  <svg x="5" y="5" width="120" height="120" viewBox="0 0 120 120">
+    <g stroke="#5d7391" stroke-width="3" stroke-linecap="round">
+      <path d="M30 4v8M50 4v8M70 4v8M90 4v8M30 108v8M50 108v8M70 108v8M90 108v8M4 30h8M4 50h8M4 70h8M4 90h8M108 30h8M108 50h8M108 70h8M108 90h8"/>
+    </g>
+    <rect x="12" y="12" width="96" height="96" rx="14" fill="#0f2540"/>
+    <g fill="#2ec4b6">
+      <rect x="52" y="30" width="16" height="3" rx="1.5"/><rect x="52" y="36" width="16" height="3" rx="1.5"/>
+      <rect x="52" y="81" width="16" height="3" rx="1.5"/><rect x="52" y="87" width="16" height="3" rx="1.5"/>
+      <rect x="30" y="52" width="3" height="16" rx="1.5"/><rect x="36" y="52" width="3" height="16" rx="1.5"/>
+      <rect x="81" y="52" width="3" height="16" rx="1.5"/><rect x="87" y="52" width="3" height="16" rx="1.5"/>
+    </g>
+    <rect x="22" y="22" width="30" height="30" rx="5" fill="#2a6cb8"/>
+    <rect x="68" y="22" width="30" height="30" rx="5" fill="#2a6cb8"/>
+    <rect x="22" y="68" width="30" height="30" rx="5" fill="#2a6cb8"/>
+    <rect x="68" y="68" width="30" height="30" rx="5" fill="#f25f5c"/>
+    <g stroke="#2ec4b6" stroke-width="2.5"><path d="M52 52l8 8M68 52l-8 8M52 68l8-8M68 68l-8-8"/></g>
+    <circle cx="60" cy="60" r="6" fill="#2ec4b6" stroke="#0f2540" stroke-width="2"/>
+    <g fill="none" stroke="#ffffff" stroke-opacity=".35" stroke-width="1.5">
+      <rect x="28" y="28" width="18" height="18" rx="2"/><rect x="74" y="28" width="18" height="18" rx="2"/>
+      <rect x="28" y="74" width="18" height="18" rx="2"/><rect x="74" y="74" width="18" height="18" rx="2"/>
+    </g>
+  </svg>
+  <text x="145" y="78" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="62" font-weight="700" letter-spacing="-1.5" fill="#ffffff">Chiplet<tspan fill="#2ec4b6">Net</tspan></text>
+  <text x="148" y="112" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" font-weight="500" letter-spacing="4.5" fill="#f25f5c">WORKSHOP 2027</text>
+</svg>
